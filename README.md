@@ -1,7 +1,7 @@
 # To-Do-list
 
 # Created using HTML, CSS, JS
-# Using which,
+
   - you can create list of tasks
   - search for a task
   - finish/remove the task from the list
